@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Prerna Bisht!
+#  Hey, I'm Prerna Bisht!
 
 🎓 ECE Undergraduate @ IIIT Trichy  
 💻 Exploring Software Development, AI/ML & Electronics  
@@ -50,19 +50,11 @@ Exploring practical AI-powered solutions to automate repetitive tasks and improv
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pb123456123456&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb123456123456&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Github Contribution Streak
 
 <div align="center">
 

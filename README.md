@@ -36,17 +36,6 @@ A platform designed to bridge the gap between students, academia and industry th
 
 ---
 
-### 🍯 HoneyChain
-A blockchain-based honey traceability and smart beekeeping concept.
-
-**Focus:** Blockchain • IoT • QR Verification • AI
-
----
-
-### 🤖 AI Automation Projects
-Exploring practical AI-powered solutions to automate repetitive tasks and improve workflows.
-
-**Focus:** AI • Automation • Productivity
 
 ---
 

@@ -36,13 +36,6 @@ A platform designed to bridge the gap between students, academia and industry th
 
 ---
 
-
----
-
-
-
----
-
 ## 🔥 Github Contribution Streak
 
 <div align="center">
